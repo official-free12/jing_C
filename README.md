@@ -1,0 +1,6 @@
+# 竞拍商城系统拍卖系统拍卖app竞拍竞价溢价拍卖转卖寄售交易
+
+拍前必看：本店所售程序只供测试研究，不得使用于非法用途，不得违反国家法律，不得用于进行违法行为，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！拍下自动默认同意本店条款！<br>-------------------------------------------------------------------------------------------------------------------<br>请在购买前认真阅读以下说明：<br>example.com，有问题客服我会耐心为大家解答。<br>example.com，都请详细咨询客服后再进行下单，避免不必要的误会。<br>example.com，可与我沟通这套码我很熟悉可以帮你二开新功能。<br>如需要其他源码可联系客服咨询，本店会更新更多精品资源！<br>您的信任与支持是我们持续提供更好更完美的程序前提！<br>功能介绍<br>拍卖转拍,玩家互动挑选自己想要的拍品,转拍获利,还可以提货,一款购物和赚钱的不二选择操作步骤打开拍卖首页<br>根据时间点击进入指定的场次选作品，等待到时间准备抢拍,抢完之后可以查看卖家的收款码,确认打款之后可以上传支付截图然后可以等待卖家确认收货,可以选择提货或者第二天进行转拍获利。<br>功能更新<br>example.com，不限制上下级。<br>example.com，可限制进入本次竞拍的会员所需等级。<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/UidoO" style="color: red;">https://mega-file.org/UidoO</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
